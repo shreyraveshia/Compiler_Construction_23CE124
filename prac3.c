@@ -219,9 +219,9 @@ int main() {
     }
 
 
-    printf("\nAaryan Chavda - 23CE013\n");
 
 
     return 0;
 }
+
 
